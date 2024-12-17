@@ -1,0 +1,16 @@
+.tree{
+	margin: 20px 0px;
+	width: 1520px;
+	height: 700px;
+}
+.row{
+	width: 100%;
+	height: 50px;
+	display: flex;	
+	border: 1px solid;
+}
+.col{
+	border: 1px solid;
+	width: 100%;
+	height: 100%;
+}
